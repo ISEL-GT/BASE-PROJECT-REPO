@@ -30,6 +30,5 @@
 | Contributor        | Email                      |
 |--------------------|----------------------------|
 | Alexandre Silva    | alexandresilva.coding@gmail.com     |
-| Daniel Viegas      | viegasdaniel111@gmail.com       |
 | Duarte Rodrigues   | duarte.afonso.rodrigues@gmail.com    |
 
